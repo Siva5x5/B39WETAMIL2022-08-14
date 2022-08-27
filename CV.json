@@ -1,0 +1,38 @@
+{
+  "personalInformation": {
+    "neme": "Siva",
+    "dob": "10.05.1998",
+    "gender": "Male",
+    "mobile": 8825514199,
+    "email": "siva5x5@gmail.com",
+    "location": [
+      {
+        "address": "14/51 - Muniyan chettikadu",
+        "villege": "Vennandur",
+        "postalcode": 637505,
+        "city": "Namakkal"
+      }
+    ]
+  },
+  "professionalExperience": {
+    "companyName": "Cognizant Technologies Solution",
+    "designation": "Senier Associate",
+    "duration": [
+      {
+        "startDate": "12.10.2018",
+        "endDate": "Present"
+      }
+    ]
+  },
+  "education": {
+    "Instituion": "Mahendra Arts & Sceience College - Kalipatti",
+    "degree": "B.Sc - Mathematics",
+    "percentage": 60,
+    "yearOfpassing": 2018
+  },
+  "skills": {
+    "type": "Fullstack Developer",
+    "level": "Beginner",
+    "keywords": ["HTML", "CSS", "JavaScript"]
+  }
+}
