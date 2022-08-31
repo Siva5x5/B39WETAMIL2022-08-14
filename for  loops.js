@@ -8,7 +8,7 @@ for(var i = 0; i < clock.length; i++) {
 
 // for of loop:
 let calender = [ "january", "february", "march", "april", "may", "jun", 
-               "july", "august", "septemper", "october", "novomber", "december"]
+               "july", "august", "septemper", "october", "november", "december"]
 for (let months of calender) {
     console.log(months);
 }
